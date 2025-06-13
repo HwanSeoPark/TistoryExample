@@ -2,6 +2,9 @@ package com.tistoryexample.java2;
 
 public class Main {
 	
+<<<<<<< HEAD
+public static void main(String[] args){
+=======
 	// main 메서드 작성시,static 키워드를 지정해야하는 이유?
 		// : 프로젝트의 모든 클래스 객체의 인스턴스를 생성하지 않아도 호출 가능한 정적 메서드(static)를 진입접을 지정함으로써,
 		//   실행을 위한 객체의 생성과 메모리 할당을 실제 해당 객체가 사용될 때까지 지연될수 있다.
@@ -15,6 +18,7 @@ public class Main {
 		// 아래 방식처럼 구현해야함
 		// class level
 		// member level
+>>>>>>> origin/main
     	
     	Object obj;
     	
