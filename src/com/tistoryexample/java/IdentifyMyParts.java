@@ -1,4 +1,4 @@
-package com.Tistory.Java;
+package com.tistoryexample.java;
 
 public class IdentifyMyParts {
     public static int x = 7; 

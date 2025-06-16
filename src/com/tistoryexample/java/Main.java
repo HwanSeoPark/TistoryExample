@@ -1,7 +1,6 @@
 package com.tistoryexample.java;
 
 public class Main {
-<<<<<<< HEAD
 	
 	public static void main (String... args) {	
 		   
@@ -19,15 +18,6 @@ public class Main {
 		        System.out.println("unary: ++a = " + preA + ", --b = " + preB);
 		}
 	
-	}
-	
 
-=======
-	public static void main(String[] args) {
-		Person person = new Person("Bob", 20, "Seoul");
-		person.print();
-		
-//		Person.Address address = new Person.Address("Bob", 20, "Seoul");
-	}
 }
->>>>>>> origin/main
+

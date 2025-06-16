@@ -1,4 +1,4 @@
-package com.Tistory.Java;
+package com.tistoryexample.java;
 
 import javax.swing.Box;
 
